@@ -1,0 +1,8 @@
+{
+  "project_name": "myawesomeproject",
+  "project_description": "An awesome python library",
+  "author_name": "Joe Bloggs",
+  "author_email": "jbloggs@example.com",
+  "version": "0.0.1"
+}
+
